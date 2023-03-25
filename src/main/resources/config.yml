@@ -1,0 +1,4 @@
+filter:
+  - ".*\\bserver\\s+.*$"
+
+JoinAdd: 10000
