@@ -10,6 +10,7 @@ taboolib {
     install("common-5")
     install("module-configuration")
     install("module-nms")
+    install("module-lang")
     install("module-nms-util")
     install("platform-bukkit")
     install("expansion-command-helper")
